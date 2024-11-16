@@ -1,2 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aekarin</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkarinJB&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AkkarinJB&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AkkarinJB&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akkarin&show_icons=true" />
+</picture>

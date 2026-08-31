@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="left">Tools</h3>
+<!-- <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -25,10 +25,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <!-- เปลี่ยนเป็นโลโก้ Next.js สีขาวล้วน จะได้มองเห็นชัดบนพื้นดำ -->
     <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-</p>
+</p> -->
